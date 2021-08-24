@@ -1,0 +1,12 @@
+.firstbox {
+    border:blueviolet 2px solid;
+}
+#internal_ul{
+    background-color: rgb(250, 246, 0);
+}
+ol{
+    background-color: orange;
+}
+p[name="first_p_tag"]{
+    background-color: chartreuse;
+}
